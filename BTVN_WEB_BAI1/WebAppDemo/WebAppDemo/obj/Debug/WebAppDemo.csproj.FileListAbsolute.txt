@@ -1,0 +1,7 @@
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.csproj.AssemblyReference.cache
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.csproj.CoreCompileInputs.cache
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll.config
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\bin\WebAppDemo.pdb
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.dll
+D:\BTVN_WEB_BAI1\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.pdb

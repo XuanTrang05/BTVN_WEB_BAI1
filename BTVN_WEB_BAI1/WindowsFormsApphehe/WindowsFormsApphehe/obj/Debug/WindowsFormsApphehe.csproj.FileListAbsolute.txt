@@ -1,0 +1,12 @@
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.csproj.AssemblyReference.cache
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.Form1.resources
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.Properties.Resources.resources
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.csproj.GenerateResource.cache
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.csproj.CoreCompileInputs.cache
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\bin\Debug\WindowsFormsApphehe.exe
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\bin\Debug\WindowsFormsApphehe.pdb
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\bin\Debug\ClassLibrary1.dll
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\bin\Debug\ClassLibrary1.pdb
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsF.3AE26477.Up2Date
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.exe
+D:\BTVN_WEB_BAI1\WindowsFormsApphehe\WindowsFormsApphehe\obj\Debug\WindowsFormsApphehe.pdb
