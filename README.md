@@ -77,6 +77,10 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40a034ed-b8c3-40c3-a8e0-4b53f12ede44" />
 
 ## KẾT QUẢ
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4f777572-d19b-4ee3-831d-e32d3318b6d5" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/77707a15-6a37-4ee0-8bed-5fc4f550bf8a" />
+
+
 
 
 
