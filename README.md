@@ -58,11 +58,30 @@
 * phát triển và lập trình.
 
 * Giao diện (UI).
+* 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/38636542-b012-404f-ae0b-036feac9dddf" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7c3be18-25b4-436c-a394-7533f5e9d167" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5bb3200-fd58-4b68-bb89-e3613c8ad1fd" />
 
-*
+* code-behind (logic).
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52a70f88-c87a-4222-8f3a-ac1586f23dbe" />
+
+*file designer, tự động sinh ra để ánh xạ control.
+
+<img width="741" height="782" alt="image" src="https://github.com/user-attachments/assets/20944df4-0050-4259-876c-a82d557fa512" />
+
+*  html css js
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3cef6c8-cfaa-4cc3-9a6d-9e3ff429556a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee1eb829-aa59-4029-9483-70e838423d3f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40a034ed-b8c3-40c3-a8e0-4b53f12ede44" />
+
+## KẾT QUẢ
+
+
+
+
+
 
 
 
