@@ -57,6 +57,15 @@
 
 * phát triển và lập trình.
 
+* Giao diện (UI).
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/38636542-b012-404f-ae0b-036feac9dddf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7c3be18-25b4-436c-a394-7533f5e9d167" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5bb3200-fd58-4b68-bb89-e3613c8ad1fd" />
+
+*
+
+
+
 
 
 
